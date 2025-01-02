@@ -1,5 +1,5 @@
-&{red}!!!EARLY TESTING!!!&{bold}
-&{red}!!!DOES NOT WORK!!!&{bold}
+<span style="color:blue; font-weight:bold;">!!!EARLY TESTING!!!</span>
+<span style="color:blue; font-weight:bold;">!!!DOES NOT WORK!!!</span>
 
 
 # Introduction
